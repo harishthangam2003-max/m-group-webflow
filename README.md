@@ -1,4 +1,4 @@
-# M-Group Hospitality Website
+# M-Group Website
 
 A premium hospitality website designed and developed for **M-Group**, showcasing multiple business verticals including event venues, cafés, catering, and hospitality services. The project focuses on creating a modern digital experience with clean navigation, responsive layouts, and immersive visuals.
 
