@@ -1,113 +1,93 @@
-# 🌐 M-Group Corporate Website
+# M-Group Hospitality Website
 
-> A premium corporate website designed and developed in **Webflow** with a focus on responsive design, scalability, and a seamless user experience.
+A premium hospitality website designed and developed for **M-Group**, showcasing multiple business verticals including event venues, cafés, catering, and hospitality services. The project focuses on creating a modern digital experience with clean navigation, responsive layouts, and immersive visuals.
+
+---
+
+## 🌐 Live Website
+
+🔗 https://m-group.in/
 
 ---
 
 # 📸 Project Preview
 
-> Replace this image with your homepage screenshot.
+## Hero Section
 
-![Project Preview](assets/cover.jpg)
-
----
-
-# 📖 Overview
-
-M-Group is a corporate website built to showcase multiple business verticals through a modern, premium, and responsive digital experience.
-
-The project focused on creating a scalable website architecture that allows easy content management while maintaining visual consistency across all pages.
+![Hero Section](assets/hero-preview.webp)
 
 ---
 
-# 👨‍💻 My Role
+## Homepage
 
-As the **Website Developer**, I was responsible for:
-
-- Developing responsive Webflow pages
-- Building reusable components
-- Structuring CMS collections
-- Optimizing website performance
-- Implementing responsive layouts
-- Supporting deployment and revisions
-- Collaborating with designers and stakeholders
+![Homepage](assets/home%20page.webp)
 
 ---
 
-# 🎯 Project Information
+## 🎯 Project Overview
 
-| Category | Details |
-|-----------|----------|
-| Industry | Hospitality |
-| Platform | Webflow |
-| Role | Website Developer |
-| Timeline | 3 months *(Example)* |
-| Device Support | Desktop • Tablet • Mobile |
+M-Group is a hospitality brand with multiple service offerings under one umbrella. The challenge was to organize these services into a seamless browsing experience while maintaining a premium brand identity.
+
+The website was designed to help visitors quickly discover venues, cafés, catering services, and hospitality experiences through an intuitive navigation system.
 
 ---
 
-# 🚧 Challenge
+## ✨ Key Features
 
-The client required a modern website that could represent multiple business divisions while remaining easy to manage and expand in the future.
-
-The website also needed to:
-
-- Support responsive layouts
-- Maintain a premium visual identity
-- Organize content efficiently
-- Keep future updates simple for non-technical users
-
----
-
-# 💡 Solution
-
-To address these requirements, I:
-
-- Built reusable Webflow components
-- Created a scalable CMS structure
-- Optimized images and layouts for performance
-- Designed responsive sections for all screen sizes
-- Maintained consistent spacing and typography
-- Improved navigation for a better user experience
+- Responsive Webflow website
+- Multi-brand navigation
+- Premium hospitality design
+- CMS-powered content management
+- Smooth page transitions
+- Mobile-first responsive layouts
+- Optimized image loading
+- SEO-friendly structure
 
 ---
 
-# ✨ Key Features
+# 🖼️ Website Sections
 
-- ✅ Fully Responsive Design
-- ✅ CMS Collections
-- ✅ Reusable Components
-- ✅ Modern UI
-- ✅ Performance Optimization
-- ✅ SEO-Friendly Structure
-- ✅ Cross-Browser Compatibility
-- ✅ Easy Content Management
+## Home Page
+
+![Homepage](assets/home%20page.webp)
 
 ---
 
-# ⚙️ Development Process
+## About Section
 
-```text
-Research
-    ↓
-Planning
-    ↓
-Wireframing
-    ↓
-Development
-    ↓
-CMS Setup
-    ↓
-Responsive Testing
-    ↓
-Performance Optimization
-    ↓
-Deployment
-```
+![About](assets/about.webp)
+
+---
+
+## Burgundy Banquets
+
+![Burgundy Banquets](assets/burgundy-banquets.webp)
+
+---
+
+## TAKKT Southern Café
+
+![TAKKT Southern Café](assets/takkt-southern-cafe.webp)
+
+---
+
+## Contact Section
+
+![Contact](assets/contact.webp)
+
+---
+
+## Hero Experience
+
+![Hero Experience](assets/hero-section.webp)
 
 ---
 
 # 🛠 Tech Stack
+
+### Design
+
+- Figma
 
 ### Development
 
@@ -116,59 +96,48 @@ Deployment
 - CSS
 - JavaScript
 
-# 🖼 Project Gallery
+### Integrations
 
-## Homepage
-
-![Homepage](assets/homepage.jpg)
-
----
-
-## About Page
-
-![About](assets/about.jpg)
+- CMS Collections
+- Responsive Layout
+- Custom Interactions
 
 ---
 
-## Responsive Design
+# 📱 Responsive Design
 
-![Responsive](assets/mobile.jpg)
+The website is fully responsive and optimized across:
 
----
-
-## CMS Structure
-
-![CMS](assets/cms.jpg)
-
----
-
-# 📈 Highlights
-
-- Responsive across Desktop, Tablet & Mobile
-- Reusable Webflow components
-- Organized CMS collections
-- Performance-focused implementation
-- Scalable page structure
-- Premium corporate user interface
+- Desktop
+- Laptop
+- Tablet
+- Mobile
 
 ---
 
-# 📚 What I Learned
+# 🚀 Highlights
 
-Working on this project helped me strengthen my understanding of:
-
-- Component-based development
-- Responsive web design
-- CMS architecture
-- Client collaboration
-- Website optimization
-- Building scalable Webflow projects
+- Premium hospitality branding
+- Smooth user experience
+- Responsive layouts
+- Clean visual hierarchy
+- Fast-loading pages
+- Reusable CMS structure
+- Scalable architecture
 
 ---
 
-# 🌍 Live Website
+# 👨‍💻 My Role
 
-🔗 https://www.m-group.in/
+I was responsible for:
+
+- UI implementation in Webflow
+- Responsive development
+- CMS configuration
+- Layout optimization
+- Website performance improvements
+- Cross-device testing
+- Client-requested updates and refinements
 
 ---
 
@@ -180,11 +149,11 @@ Working on this project helped me strengthen my understanding of:
 https://portfolio-3adf1f.webflow.io/
 
 💼 LinkedIn  
-https://www.linkedin.com/in/harish-t-293567365
+https://linkedin.com/in/harish-t-293567365
 
 📧 Email  
 harishthangam19@gmail.com
 
 ---
 
-## ⭐ If you like this project, consider giving it a Star.
+⭐ If you like this project, feel free to star the repository.
