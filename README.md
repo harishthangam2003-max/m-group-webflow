@@ -45,7 +45,7 @@ The website was designed to help visitors quickly discover venues, cafés, cater
 
 ---
 
-# 🖼️ Website Sections
+# 🖼️ Website
 
 ## Home Page
 
@@ -53,7 +53,7 @@ The website was designed to help visitors quickly discover venues, cafés, cater
 
 ---
 
-## About Section
+## About Page
 
 ![About](assets/about.webp)
 
@@ -71,7 +71,7 @@ The website was designed to help visitors quickly discover venues, cafés, cater
 
 ---
 
-## Contact Section
+## Contact Page
 
 ![Contact](assets/contact.webp)
 
@@ -84,10 +84,6 @@ The website was designed to help visitors quickly discover venues, cafés, cater
 ---
 
 # 🛠 Tech Stack
-
-### Design
-
-- Figma
 
 ### Development
 
@@ -144,9 +140,6 @@ I was responsible for:
 # 📬 Contact
 
 **Harish T**
-
-🌐 Portfolio  
-https://portfolio-3adf1f.webflow.io/
 
 💼 LinkedIn  
 https://linkedin.com/in/harish-t-293567365
